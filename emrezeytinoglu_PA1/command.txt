@@ -1,0 +1,20 @@
+              with -l, print the author of each file
+              with  -l,  scale  sizes  by  SIZE  when  printing  them;   e.g.,
+       -c     with -lt: sort by, and show, ctime (time of last modification of
+              file status information); with -l: show ctime and sort by  name;
+       -f     do not sort, enable -aU, disable -ls --color
+              across -x, commas -m, horizontal -x, long -l, single-column  -1,
+              verbose -l, vertical -C
+              like -l --time-style=full-iso
+       -g     like -l, but do not list owner
+              with -l and -s, print sizes like 1K 234M 2G etc.
+       -H, --dereference-command-line
+       --dereference-command-line-symlink-to-dir
+       -l     use a long listing format
+              like -l, but list numeric user and group IDs
+       -N, --literal
+       -o     like -l, but do not list group information
+              with -l, WORD determines which time to show;  with  --sort=time,
+              time/date format with -l; see TIME_STYLE below
+       -u     with  -lt:  sort by, and show, access time; with -l: show access
+       2      if serious trouble (e.g., cannot access command-line argument).
